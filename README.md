@@ -1,2 +1,2 @@
 # platzi-badges
-Platzi conf creando paginas con react convirtiendo uyn componente a una pagina 
+Platzi conf creando paginas con react convirtiendo un componente a una pagina 
