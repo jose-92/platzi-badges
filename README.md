@@ -1,2 +1,2 @@
 # platzi-badges
-Proyecto curso de platzi
+Platzi conf creando paginas con react convirtiendo uyn componente a una pagina 
